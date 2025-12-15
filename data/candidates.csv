@@ -1,0 +1,1201 @@
+candidate_id,source,role,location,application_date
+C00001,Company Website,HR Business Partner,EU,2025-09-23
+C00002,Referral,Software Engineer,Portugal,2024-07-11
+C00003,Company Website,Customer Success Manager,EU,2025-01-24
+C00004,Job Board,Customer Success Manager,Portugal,2024-03-28
+C00005,LinkedIn,Data Analyst,Portugal,2024-01-03
+C00006,Agency,Data Analyst,Remote,2024-12-01
+C00007,Company Website,HR Business Partner,Italy,2025-09-15
+C00008,Company Website,Software Engineer,Remote,2024-01-11
+C00009,LinkedIn,Sales Manager,Remote,2024-10-21
+C00010,Referral,Software Engineer,Netherlands,2024-09-24
+C00011,Referral,Customer Success Manager,EU,2025-06-01
+C00012,Company Website,Customer Success Manager,Netherlands,2024-01-03
+C00013,Job Board,HR Business Partner,Italy,2024-12-01
+C00014,Company Website,Software Engineer,Italy,2024-10-05
+C00015,Referral,Sales Manager,Italy,2024-06-14
+C00016,LinkedIn,Software Engineer,Remote,2025-09-21
+C00017,Job Board,Sales Manager,Remote,2025-02-14
+C00018,LinkedIn,HR Business Partner,Italy,2024-01-16
+C00019,Company Website,HR Business Partner,Remote,2024-06-17
+C00020,Job Board,Data Analyst,Netherlands,2024-05-31
+C00021,Company Website,Data Analyst,Remote,2024-01-24
+C00022,Referral,Sales Manager,Remote,2025-10-12
+C00023,Agency,Marketing Specialist,EU,2024-09-24
+C00024,Company Website,HR Business Partner,Remote,2025-01-23
+C00025,Company Website,Data Analyst,Netherlands,2024-10-01
+C00026,LinkedIn,Marketing Specialist,EU,2025-02-16
+C00027,Referral,Software Engineer,Remote,2024-01-11
+C00028,LinkedIn,Software Engineer,EU,2024-01-21
+C00029,LinkedIn,Marketing Specialist,EU,2025-09-06
+C00030,Job Board,Data Analyst,EU,2025-02-07
+C00031,Job Board,Sales Manager,Portugal,2025-01-19
+C00032,Agency,HR Business Partner,EU,2025-01-02
+C00033,LinkedIn,Sales Manager,EU,2024-10-22
+C00034,Referral,HR Business Partner,Remote,2024-09-01
+C00035,Referral,Sales Manager,EU,2024-10-18
+C00036,LinkedIn,Data Analyst,Netherlands,2024-09-06
+C00037,LinkedIn,Sales Manager,EU,2025-07-17
+C00038,Job Board,Software Engineer,EU,2024-08-02
+C00039,LinkedIn,Data Analyst,Italy,2024-07-09
+C00040,Job Board,Data Analyst,EU,2025-10-08
+C00041,Referral,Marketing Specialist,Netherlands,2024-12-05
+C00042,Company Website,Sales Manager,Remote,2025-02-20
+C00043,Job Board,Software Engineer,Remote,2024-06-13
+C00044,LinkedIn,Data Analyst,Italy,2024-07-04
+C00045,Company Website,Software Engineer,Italy,2025-05-02
+C00046,Company Website,Sales Manager,EU,2024-10-29
+C00047,Referral,HR Business Partner,Remote,2024-04-08
+C00048,LinkedIn,Sales Manager,Italy,2025-01-27
+C00049,Job Board,Marketing Specialist,EU,2024-10-21
+C00050,LinkedIn,Marketing Specialist,EU,2025-03-23
+C00051,LinkedIn,Data Analyst,EU,2024-08-16
+C00052,LinkedIn,Data Analyst,EU,2024-01-03
+C00053,Company Website,Data Analyst,EU,2024-09-25
+C00054,Job Board,HR Business Partner,Portugal,2025-08-16
+C00055,Job Board,Data Analyst,EU,2024-05-18
+C00056,Company Website,Customer Success Manager,Italy,2024-09-07
+C00057,Referral,Customer Success Manager,EU,2024-09-15
+C00058,Job Board,Customer Success Manager,Remote,2025-03-06
+C00059,LinkedIn,Software Engineer,Remote,2024-04-05
+C00060,LinkedIn,Marketing Specialist,Italy,2024-05-07
+C00061,Job Board,Data Analyst,Portugal,2024-05-15
+C00062,Job Board,Software Engineer,EU,2024-03-12
+C00063,Job Board,Sales Manager,Remote,2025-05-20
+C00064,Company Website,Marketing Specialist,EU,2025-10-08
+C00065,Job Board,HR Business Partner,Remote,2024-12-12
+C00066,Job Board,Customer Success Manager,EU,2025-02-05
+C00067,Job Board,Data Analyst,Portugal,2025-06-02
+C00068,LinkedIn,Marketing Specialist,EU,2024-10-05
+C00069,LinkedIn,Software Engineer,EU,2024-11-12
+C00070,Referral,Software Engineer,Remote,2025-01-29
+C00071,LinkedIn,Marketing Specialist,Italy,2024-07-23
+C00072,Referral,Software Engineer,Portugal,2024-02-11
+C00073,Company Website,Software Engineer,EU,2025-01-15
+C00074,LinkedIn,HR Business Partner,Italy,2025-07-04
+C00075,LinkedIn,Data Analyst,Remote,2024-10-03
+C00076,LinkedIn,Sales Manager,Remote,2025-01-03
+C00077,LinkedIn,Sales Manager,Remote,2024-06-25
+C00078,Job Board,Data Analyst,Remote,2025-06-23
+C00079,Job Board,Marketing Specialist,Remote,2024-12-04
+C00080,Company Website,HR Business Partner,Netherlands,2024-12-24
+C00081,Job Board,Software Engineer,Italy,2024-10-07
+C00082,Referral,Software Engineer,Remote,2024-07-04
+C00083,Company Website,Software Engineer,Remote,2025-04-23
+C00084,LinkedIn,HR Business Partner,Remote,2025-09-15
+C00085,LinkedIn,Marketing Specialist,Portugal,2024-03-17
+C00086,LinkedIn,Marketing Specialist,Italy,2025-10-15
+C00087,Job Board,Software Engineer,EU,2025-03-16
+C00088,Referral,Sales Manager,Portugal,2024-10-24
+C00089,LinkedIn,Software Engineer,Remote,2024-10-20
+C00090,Job Board,HR Business Partner,EU,2024-02-04
+C00091,LinkedIn,Software Engineer,Netherlands,2024-10-05
+C00092,Job Board,HR Business Partner,Italy,2025-09-21
+C00093,Referral,Software Engineer,Remote,2025-09-01
+C00094,Referral,Sales Manager,Netherlands,2024-08-22
+C00095,LinkedIn,Software Engineer,Portugal,2024-06-07
+C00096,Job Board,Software Engineer,Italy,2024-09-17
+C00097,Referral,Data Analyst,Italy,2024-07-01
+C00098,LinkedIn,Data Analyst,Remote,2024-06-14
+C00099,LinkedIn,Customer Success Manager,Portugal,2024-10-15
+C00100,Agency,Software Engineer,Italy,2025-07-29
+C00101,Company Website,Sales Manager,Remote,2025-05-26
+C00102,Job Board,HR Business Partner,EU,2024-07-18
+C00103,LinkedIn,Customer Success Manager,Netherlands,2025-09-23
+C00104,Agency,Sales Manager,Portugal,2024-05-20
+C00105,Company Website,Customer Success Manager,Remote,2025-09-08
+C00106,Job Board,Marketing Specialist,Remote,2024-09-05
+C00107,Referral,HR Business Partner,Netherlands,2024-12-27
+C00108,LinkedIn,HR Business Partner,Netherlands,2024-05-16
+C00109,LinkedIn,Data Analyst,Italy,2025-05-25
+C00110,Company Website,Marketing Specialist,EU,2024-07-31
+C00111,Referral,Software Engineer,Italy,2025-08-07
+C00112,LinkedIn,Marketing Specialist,Italy,2024-02-25
+C00113,LinkedIn,HR Business Partner,Remote,2024-12-02
+C00114,Job Board,Data Analyst,Remote,2024-04-16
+C00115,LinkedIn,Data Analyst,Remote,2024-09-04
+C00116,Company Website,Customer Success Manager,Portugal,2024-10-06
+C00117,Company Website,HR Business Partner,Remote,2025-03-27
+C00118,Job Board,Data Analyst,Remote,2025-08-12
+C00119,Referral,Customer Success Manager,Italy,2024-12-24
+C00120,Job Board,Customer Success Manager,Remote,2024-02-08
+C00121,Job Board,Software Engineer,Remote,2024-05-27
+C00122,Job Board,Software Engineer,EU,2024-05-22
+C00123,LinkedIn,Data Analyst,Remote,2025-09-04
+C00124,Referral,Customer Success Manager,EU,2024-10-16
+C00125,LinkedIn,Sales Manager,Netherlands,2025-01-25
+C00126,Job Board,Marketing Specialist,Remote,2025-08-19
+C00127,LinkedIn,Software Engineer,Netherlands,2025-10-19
+C00128,LinkedIn,HR Business Partner,Netherlands,2025-03-31
+C00129,LinkedIn,Sales Manager,Portugal,2024-09-19
+C00130,Job Board,Data Analyst,EU,2024-06-10
+C00131,LinkedIn,Customer Success Manager,EU,2024-01-24
+C00132,Company Website,Software Engineer,EU,2024-10-08
+C00133,Job Board,Software Engineer,EU,2025-10-16
+C00134,LinkedIn,Marketing Specialist,Remote,2024-05-21
+C00135,Job Board,Marketing Specialist,Netherlands,2024-08-11
+C00136,LinkedIn,Customer Success Manager,EU,2024-01-02
+C00137,Agency,Sales Manager,Portugal,2025-01-10
+C00138,Job Board,HR Business Partner,Remote,2024-10-23
+C00139,Company Website,Marketing Specialist,Remote,2024-03-12
+C00140,LinkedIn,Software Engineer,Italy,2025-01-20
+C00141,Job Board,Data Analyst,Italy,2025-10-02
+C00142,Job Board,Customer Success Manager,Italy,2025-10-03
+C00143,Agency,Software Engineer,Remote,2025-07-20
+C00144,Job Board,HR Business Partner,Remote,2025-02-13
+C00145,Job Board,Marketing Specialist,Italy,2025-05-10
+C00146,LinkedIn,HR Business Partner,Remote,2024-07-17
+C00147,LinkedIn,Software Engineer,Netherlands,2024-01-25
+C00148,Job Board,Software Engineer,Remote,2024-08-19
+C00149,Referral,Software Engineer,Remote,2025-09-11
+C00150,LinkedIn,Data Analyst,Remote,2025-06-13
+C00151,Company Website,Customer Success Manager,Italy,2025-10-23
+C00152,Company Website,Customer Success Manager,Italy,2024-01-02
+C00153,LinkedIn,Sales Manager,EU,2024-09-07
+C00154,Job Board,Sales Manager,Netherlands,2025-10-26
+C00155,LinkedIn,Marketing Specialist,Remote,2025-09-11
+C00156,Job Board,Data Analyst,EU,2025-01-17
+C00157,LinkedIn,Software Engineer,Remote,2024-07-18
+C00158,Job Board,Software Engineer,Remote,2024-07-05
+C00159,Job Board,Customer Success Manager,Italy,2025-08-10
+C00160,Company Website,Data Analyst,Remote,2024-02-05
+C00161,LinkedIn,HR Business Partner,EU,2024-02-11
+C00162,Company Website,Software Engineer,EU,2025-05-09
+C00163,LinkedIn,HR Business Partner,EU,2024-01-01
+C00164,LinkedIn,Data Analyst,Italy,2024-04-24
+C00165,Job Board,Software Engineer,EU,2025-10-25
+C00166,Referral,Software Engineer,Italy,2025-09-21
+C00167,Company Website,Sales Manager,Remote,2025-05-02
+C00168,Company Website,Data Analyst,Remote,2024-11-22
+C00169,LinkedIn,Sales Manager,EU,2024-09-18
+C00170,Agency,Software Engineer,Netherlands,2024-05-03
+C00171,LinkedIn,Data Analyst,Remote,2025-05-24
+C00172,Job Board,Marketing Specialist,Italy,2024-09-15
+C00173,LinkedIn,Software Engineer,EU,2025-02-02
+C00174,Agency,Customer Success Manager,Portugal,2025-01-03
+C00175,LinkedIn,Marketing Specialist,Italy,2024-09-05
+C00176,LinkedIn,Data Analyst,EU,2024-09-12
+C00177,Referral,HR Business Partner,EU,2025-02-09
+C00178,Agency,Marketing Specialist,Portugal,2024-10-22
+C00179,Company Website,HR Business Partner,Remote,2024-08-22
+C00180,Job Board,Software Engineer,Netherlands,2024-01-25
+C00181,Company Website,Software Engineer,Remote,2025-04-04
+C00182,Company Website,Data Analyst,Portugal,2024-01-27
+C00183,Job Board,Software Engineer,Remote,2024-06-07
+C00184,LinkedIn,Marketing Specialist,Remote,2025-02-06
+C00185,Company Website,Marketing Specialist,Remote,2025-02-21
+C00186,Job Board,Data Analyst,Italy,2024-03-02
+C00187,Referral,Customer Success Manager,Remote,2025-06-11
+C00188,LinkedIn,Sales Manager,Remote,2024-10-13
+C00189,Job Board,Marketing Specialist,Italy,2024-06-08
+C00190,LinkedIn,Data Analyst,Italy,2025-05-18
+C00191,Agency,Marketing Specialist,EU,2024-09-23
+C00192,LinkedIn,Customer Success Manager,Portugal,2024-10-10
+C00193,LinkedIn,Data Analyst,EU,2024-07-08
+C00194,Company Website,Data Analyst,Remote,2024-07-19
+C00195,LinkedIn,Customer Success Manager,Remote,2025-02-01
+C00196,LinkedIn,Data Analyst,Netherlands,2024-02-01
+C00197,Job Board,Software Engineer,Remote,2025-01-21
+C00198,Company Website,Marketing Specialist,Italy,2024-01-17
+C00199,LinkedIn,HR Business Partner,Netherlands,2024-09-02
+C00200,LinkedIn,Software Engineer,Netherlands,2024-10-15
+C00201,Company Website,Software Engineer,Italy,2025-05-14
+C00202,Agency,Data Analyst,EU,2025-08-14
+C00203,Job Board,Marketing Specialist,Italy,2025-01-17
+C00204,LinkedIn,Sales Manager,EU,2024-06-12
+C00205,LinkedIn,Sales Manager,Remote,2024-10-09
+C00206,LinkedIn,Sales Manager,Remote,2025-01-19
+C00207,LinkedIn,Marketing Specialist,EU,2025-10-23
+C00208,Job Board,Data Analyst,Remote,2025-04-03
+C00209,LinkedIn,Marketing Specialist,EU,2024-12-26
+C00210,Job Board,Customer Success Manager,Remote,2024-01-17
+C00211,Job Board,Customer Success Manager,Portugal,2024-02-24
+C00212,Job Board,Marketing Specialist,Portugal,2024-09-15
+C00213,LinkedIn,Customer Success Manager,Italy,2025-03-18
+C00214,Company Website,Marketing Specialist,EU,2024-01-21
+C00215,Job Board,Data Analyst,Remote,2024-06-10
+C00216,Job Board,Customer Success Manager,Italy,2025-03-24
+C00217,LinkedIn,Software Engineer,Remote,2025-06-30
+C00218,LinkedIn,Software Engineer,Portugal,2025-01-25
+C00219,Company Website,Marketing Specialist,Portugal,2025-10-15
+C00220,Referral,Marketing Specialist,Netherlands,2025-05-06
+C00221,LinkedIn,Customer Success Manager,Portugal,2025-04-24
+C00222,Job Board,Software Engineer,Netherlands,2024-01-09
+C00223,Job Board,Software Engineer,Remote,2024-05-03
+C00224,Agency,Software Engineer,Netherlands,2025-05-23
+C00225,LinkedIn,Software Engineer,EU,2025-10-03
+C00226,Company Website,Software Engineer,Italy,2025-10-26
+C00227,LinkedIn,Data Analyst,EU,2024-10-27
+C00228,Job Board,Data Analyst,Remote,2024-10-27
+C00229,Job Board,Customer Success Manager,Remote,2025-08-18
+C00230,LinkedIn,Software Engineer,Remote,2024-01-19
+C00231,LinkedIn,Marketing Specialist,Remote,2025-08-24
+C00232,Referral,HR Business Partner,Italy,2025-07-11
+C00233,Agency,Data Analyst,Portugal,2024-09-12
+C00234,Job Board,Data Analyst,EU,2025-05-04
+C00235,Agency,Sales Manager,Italy,2024-10-01
+C00236,Company Website,Marketing Specialist,Italy,2025-06-21
+C00237,Referral,Sales Manager,Italy,2025-06-26
+C00238,Company Website,Software Engineer,Remote,2025-09-18
+C00239,LinkedIn,Marketing Specialist,Portugal,2025-01-29
+C00240,LinkedIn,Marketing Specialist,Remote,2024-11-14
+C00241,Company Website,Sales Manager,EU,2025-09-18
+C00242,Company Website,Data Analyst,EU,2025-03-03
+C00243,LinkedIn,Data Analyst,EU,2025-01-14
+C00244,Job Board,Data Analyst,Portugal,2024-12-11
+C00245,Job Board,Sales Manager,Remote,2024-01-03
+C00246,Company Website,HR Business Partner,Portugal,2025-07-24
+C00247,Job Board,Marketing Specialist,EU,2024-04-09
+C00248,Referral,Software Engineer,Portugal,2024-10-16
+C00249,Referral,HR Business Partner,EU,2025-04-28
+C00250,Referral,Sales Manager,Portugal,2025-09-11
+C00251,Job Board,Customer Success Manager,Netherlands,2025-06-05
+C00252,Company Website,HR Business Partner,Italy,2025-06-19
+C00253,Referral,Marketing Specialist,Portugal,2025-07-26
+C00254,LinkedIn,Marketing Specialist,EU,2025-10-06
+C00255,LinkedIn,Software Engineer,Italy,2025-02-11
+C00256,Job Board,Data Analyst,Netherlands,2024-06-15
+C00257,Company Website,Sales Manager,Italy,2025-01-06
+C00258,LinkedIn,Software Engineer,EU,2025-04-20
+C00259,LinkedIn,Marketing Specialist,Remote,2024-10-14
+C00260,Job Board,Software Engineer,Remote,2025-05-22
+C00261,LinkedIn,Customer Success Manager,Portugal,2024-12-30
+C00262,Company Website,Software Engineer,Italy,2025-09-19
+C00263,LinkedIn,Sales Manager,Italy,2024-05-21
+C00264,LinkedIn,Sales Manager,Remote,2025-08-30
+C00265,Company Website,HR Business Partner,Italy,2025-01-23
+C00266,LinkedIn,HR Business Partner,Portugal,2024-09-07
+C00267,LinkedIn,Software Engineer,Portugal,2025-01-27
+C00268,LinkedIn,Sales Manager,Remote,2025-01-23
+C00269,LinkedIn,Customer Success Manager,EU,2025-08-28
+C00270,LinkedIn,Data Analyst,Italy,2024-04-22
+C00271,LinkedIn,Marketing Specialist,EU,2025-05-04
+C00272,LinkedIn,Sales Manager,Italy,2025-10-15
+C00273,LinkedIn,Data Analyst,Italy,2024-05-27
+C00274,Job Board,Software Engineer,Italy,2024-01-04
+C00275,Job Board,Software Engineer,EU,2024-11-14
+C00276,Referral,Software Engineer,Italy,2025-04-30
+C00277,LinkedIn,Software Engineer,Italy,2025-10-04
+C00278,Job Board,Marketing Specialist,Portugal,2025-06-17
+C00279,Company Website,Software Engineer,EU,2025-06-15
+C00280,Company Website,Software Engineer,Remote,2024-10-22
+C00281,LinkedIn,Software Engineer,Portugal,2025-03-08
+C00282,LinkedIn,Data Analyst,Portugal,2024-05-21
+C00283,LinkedIn,HR Business Partner,Remote,2024-11-06
+C00284,LinkedIn,Sales Manager,EU,2024-05-06
+C00285,Job Board,HR Business Partner,Remote,2024-01-19
+C00286,Referral,Data Analyst,EU,2025-07-27
+C00287,LinkedIn,Marketing Specialist,Remote,2025-06-23
+C00288,Referral,Software Engineer,EU,2025-09-03
+C00289,Job Board,Marketing Specialist,Remote,2024-01-10
+C00290,LinkedIn,Software Engineer,Italy,2024-03-01
+C00291,Company Website,Data Analyst,Netherlands,2024-03-15
+C00292,LinkedIn,Customer Success Manager,Italy,2025-04-25
+C00293,Company Website,HR Business Partner,Portugal,2024-05-16
+C00294,LinkedIn,Customer Success Manager,Netherlands,2024-09-27
+C00295,Company Website,Software Engineer,Portugal,2025-07-30
+C00296,Company Website,HR Business Partner,Remote,2025-08-10
+C00297,Agency,Customer Success Manager,Portugal,2025-05-26
+C00298,Company Website,HR Business Partner,Remote,2024-07-26
+C00299,Company Website,Software Engineer,Italy,2025-01-23
+C00300,Job Board,HR Business Partner,Portugal,2024-05-14
+C00301,Company Website,HR Business Partner,EU,2024-10-03
+C00302,LinkedIn,Marketing Specialist,Italy,2024-02-26
+C00303,Job Board,Software Engineer,Italy,2025-05-13
+C00304,Job Board,Software Engineer,Portugal,2024-12-08
+C00305,Company Website,Customer Success Manager,EU,2025-01-20
+C00306,Referral,Software Engineer,Italy,2024-10-28
+C00307,Referral,Customer Success Manager,Portugal,2024-04-15
+C00308,Job Board,Software Engineer,Remote,2024-01-21
+C00309,LinkedIn,Sales Manager,Remote,2025-02-26
+C00310,LinkedIn,Customer Success Manager,EU,2024-11-07
+C00311,Job Board,Data Analyst,Netherlands,2024-09-06
+C00312,Referral,Sales Manager,Remote,2024-08-18
+C00313,LinkedIn,HR Business Partner,Remote,2024-11-18
+C00314,Referral,Customer Success Manager,Remote,2024-09-09
+C00315,Referral,Marketing Specialist,Portugal,2025-09-02
+C00316,LinkedIn,Sales Manager,Remote,2024-07-05
+C00317,Referral,Data Analyst,Italy,2024-01-09
+C00318,Job Board,Marketing Specialist,Netherlands,2025-09-13
+C00319,LinkedIn,Data Analyst,Remote,2024-06-07
+C00320,Agency,Sales Manager,Italy,2024-04-20
+C00321,Company Website,Sales Manager,Italy,2024-10-09
+C00322,Job Board,Software Engineer,Portugal,2025-10-24
+C00323,LinkedIn,Marketing Specialist,Remote,2024-11-15
+C00324,Job Board,Customer Success Manager,Italy,2024-08-07
+C00325,Company Website,Customer Success Manager,Remote,2024-09-27
+C00326,Job Board,Data Analyst,EU,2024-02-29
+C00327,Company Website,Software Engineer,Portugal,2024-07-29
+C00328,Job Board,Software Engineer,Remote,2024-06-15
+C00329,Job Board,Data Analyst,Italy,2025-06-22
+C00330,LinkedIn,Sales Manager,Portugal,2024-02-09
+C00331,Job Board,Sales Manager,Remote,2024-10-12
+C00332,LinkedIn,Data Analyst,Remote,2025-06-13
+C00333,Job Board,Software Engineer,Italy,2025-07-12
+C00334,Company Website,Customer Success Manager,Remote,2024-12-09
+C00335,LinkedIn,Data Analyst,Remote,2024-05-29
+C00336,Job Board,Software Engineer,Italy,2025-10-02
+C00337,LinkedIn,Customer Success Manager,Remote,2024-05-28
+C00338,Job Board,Customer Success Manager,Italy,2025-03-19
+C00339,LinkedIn,Customer Success Manager,EU,2025-10-19
+C00340,Agency,Software Engineer,EU,2025-02-26
+C00341,LinkedIn,Customer Success Manager,Remote,2025-01-24
+C00342,Agency,Sales Manager,Portugal,2024-09-27
+C00343,Company Website,Software Engineer,Remote,2024-09-05
+C00344,Job Board,Data Analyst,EU,2025-10-06
+C00345,Company Website,Software Engineer,Remote,2024-09-25
+C00346,Company Website,Software Engineer,Portugal,2025-04-01
+C00347,Agency,Sales Manager,Remote,2025-03-19
+C00348,LinkedIn,Customer Success Manager,Remote,2025-07-01
+C00349,Job Board,Sales Manager,Italy,2024-11-10
+C00350,LinkedIn,Sales Manager,Remote,2025-06-14
+C00351,Job Board,Data Analyst,Remote,2024-10-22
+C00352,LinkedIn,Software Engineer,EU,2024-11-25
+C00353,Job Board,Sales Manager,Portugal,2025-01-21
+C00354,Job Board,Software Engineer,Remote,2025-04-16
+C00355,Referral,Sales Manager,Portugal,2025-02-18
+C00356,Job Board,Customer Success Manager,Portugal,2024-02-22
+C00357,Company Website,Marketing Specialist,Portugal,2025-06-26
+C00358,Company Website,Software Engineer,EU,2025-05-22
+C00359,Job Board,HR Business Partner,EU,2024-09-24
+C00360,Job Board,Marketing Specialist,Italy,2025-10-06
+C00361,Agency,Marketing Specialist,EU,2025-03-18
+C00362,LinkedIn,HR Business Partner,Netherlands,2024-02-26
+C00363,LinkedIn,Marketing Specialist,Remote,2024-11-25
+C00364,LinkedIn,Marketing Specialist,Remote,2025-07-14
+C00365,Job Board,Customer Success Manager,Remote,2024-01-21
+C00366,Referral,Software Engineer,Netherlands,2025-09-17
+C00367,Company Website,Data Analyst,Italy,2024-10-07
+C00368,Job Board,Data Analyst,EU,2024-01-18
+C00369,LinkedIn,Software Engineer,Portugal,2024-08-26
+C00370,Company Website,Software Engineer,Netherlands,2024-12-17
+C00371,Company Website,Software Engineer,Remote,2025-04-06
+C00372,LinkedIn,HR Business Partner,Portugal,2025-09-13
+C00373,Referral,Software Engineer,Portugal,2024-10-27
+C00374,LinkedIn,Customer Success Manager,Remote,2025-10-05
+C00375,LinkedIn,Data Analyst,EU,2024-12-19
+C00376,LinkedIn,Sales Manager,Remote,2025-01-09
+C00377,Agency,Customer Success Manager,EU,2025-09-12
+C00378,Referral,Customer Success Manager,Italy,2025-10-12
+C00379,Referral,Marketing Specialist,Remote,2025-02-19
+C00380,Job Board,Marketing Specialist,Remote,2025-01-25
+C00381,Job Board,Marketing Specialist,Remote,2024-01-09
+C00382,Agency,Sales Manager,Remote,2024-05-28
+C00383,Company Website,Software Engineer,EU,2025-04-04
+C00384,Job Board,Sales Manager,Remote,2024-08-05
+C00385,Referral,HR Business Partner,Remote,2024-01-07
+C00386,Agency,Marketing Specialist,EU,2024-01-16
+C00387,Job Board,Software Engineer,EU,2025-07-07
+C00388,Agency,Software Engineer,Italy,2024-04-12
+C00389,LinkedIn,Sales Manager,Netherlands,2024-03-08
+C00390,Company Website,Data Analyst,Italy,2025-01-11
+C00391,Job Board,Sales Manager,Portugal,2024-03-20
+C00392,LinkedIn,Data Analyst,Remote,2025-03-13
+C00393,Job Board,Marketing Specialist,EU,2024-12-30
+C00394,Job Board,Software Engineer,Netherlands,2025-01-09
+C00395,LinkedIn,Customer Success Manager,Portugal,2024-01-09
+C00396,Referral,Customer Success Manager,EU,2025-06-05
+C00397,Company Website,Sales Manager,EU,2025-03-07
+C00398,LinkedIn,Data Analyst,Remote,2024-01-05
+C00399,Referral,Customer Success Manager,EU,2024-01-11
+C00400,Referral,Sales Manager,EU,2024-07-02
+C00401,LinkedIn,Marketing Specialist,Netherlands,2024-03-29
+C00402,Company Website,Data Analyst,Italy,2024-01-11
+C00403,Company Website,HR Business Partner,Remote,2024-07-02
+C00404,LinkedIn,Customer Success Manager,EU,2024-05-18
+C00405,Agency,Sales Manager,Remote,2024-02-21
+C00406,Company Website,Sales Manager,Remote,2024-07-28
+C00407,LinkedIn,Marketing Specialist,Remote,2024-12-05
+C00408,Company Website,Sales Manager,EU,2024-09-08
+C00409,LinkedIn,Software Engineer,Remote,2025-01-17
+C00410,Agency,Software Engineer,Remote,2024-01-14
+C00411,Job Board,Sales Manager,Remote,2024-02-03
+C00412,Job Board,Customer Success Manager,Portugal,2024-04-15
+C00413,LinkedIn,Customer Success Manager,EU,2024-10-30
+C00414,Company Website,Software Engineer,Remote,2025-03-22
+C00415,LinkedIn,Customer Success Manager,Remote,2025-06-12
+C00416,LinkedIn,Sales Manager,Italy,2025-02-25
+C00417,LinkedIn,Data Analyst,Remote,2024-09-24
+C00418,Company Website,HR Business Partner,EU,2025-09-18
+C00419,LinkedIn,Marketing Specialist,Italy,2024-06-20
+C00420,Company Website,Data Analyst,Netherlands,2025-06-18
+C00421,Job Board,Sales Manager,Remote,2025-10-04
+C00422,LinkedIn,Software Engineer,EU,2025-01-15
+C00423,LinkedIn,Customer Success Manager,Remote,2025-07-17
+C00424,LinkedIn,Data Analyst,Netherlands,2024-04-02
+C00425,Job Board,Software Engineer,Netherlands,2024-09-19
+C00426,Company Website,Customer Success Manager,EU,2025-01-12
+C00427,LinkedIn,Software Engineer,Italy,2024-05-28
+C00428,Company Website,Sales Manager,Remote,2024-02-11
+C00429,LinkedIn,Sales Manager,Portugal,2025-01-21
+C00430,Company Website,Software Engineer,EU,2024-10-15
+C00431,Company Website,Software Engineer,Remote,2024-07-26
+C00432,Company Website,Marketing Specialist,Italy,2024-09-18
+C00433,Job Board,HR Business Partner,Italy,2025-10-25
+C00434,Company Website,Customer Success Manager,Portugal,2024-10-13
+C00435,LinkedIn,Marketing Specialist,EU,2024-02-22
+C00436,LinkedIn,Software Engineer,EU,2025-09-25
+C00437,LinkedIn,Software Engineer,EU,2024-04-07
+C00438,Job Board,Marketing Specialist,Remote,2025-04-04
+C00439,Job Board,Sales Manager,Remote,2025-10-21
+C00440,Job Board,Customer Success Manager,Remote,2025-07-17
+C00441,Company Website,Customer Success Manager,Portugal,2024-09-05
+C00442,LinkedIn,Data Analyst,Italy,2025-01-14
+C00443,Job Board,Software Engineer,Italy,2024-10-06
+C00444,LinkedIn,Sales Manager,Remote,2024-09-26
+C00445,LinkedIn,Sales Manager,Remote,2024-03-12
+C00446,Job Board,Software Engineer,EU,2024-12-26
+C00447,Agency,Sales Manager,Remote,2025-01-08
+C00448,Job Board,Customer Success Manager,Remote,2024-09-25
+C00449,LinkedIn,Marketing Specialist,EU,2025-01-02
+C00450,Job Board,Customer Success Manager,Remote,2025-04-29
+C00451,LinkedIn,Sales Manager,Italy,2024-09-03
+C00452,Company Website,Sales Manager,Italy,2024-12-31
+C00453,Job Board,Sales Manager,Portugal,2024-01-17
+C00454,LinkedIn,Data Analyst,Remote,2024-01-27
+C00455,LinkedIn,Marketing Specialist,EU,2024-03-27
+C00456,LinkedIn,Software Engineer,Netherlands,2024-08-07
+C00457,Agency,Sales Manager,EU,2025-06-22
+C00458,Referral,Customer Success Manager,Italy,2025-10-19
+C00459,Company Website,Software Engineer,EU,2025-03-01
+C00460,Job Board,Data Analyst,Italy,2024-01-02
+C00461,Job Board,Data Analyst,Italy,2025-02-15
+C00462,LinkedIn,HR Business Partner,Italy,2024-11-14
+C00463,Agency,Customer Success Manager,Remote,2024-10-10
+C00464,LinkedIn,Sales Manager,Remote,2024-01-25
+C00465,Job Board,Marketing Specialist,Italy,2025-06-09
+C00466,Job Board,Customer Success Manager,Remote,2024-10-04
+C00467,Job Board,Customer Success Manager,Italy,2025-01-14
+C00468,Agency,Sales Manager,Italy,2024-11-11
+C00469,LinkedIn,Data Analyst,Netherlands,2024-07-10
+C00470,Job Board,Marketing Specialist,Remote,2024-07-13
+C00471,Referral,Sales Manager,EU,2025-01-05
+C00472,Job Board,HR Business Partner,Italy,2024-10-21
+C00473,LinkedIn,Customer Success Manager,Remote,2025-09-11
+C00474,LinkedIn,Data Analyst,Remote,2025-04-04
+C00475,LinkedIn,Customer Success Manager,Remote,2025-10-22
+C00476,LinkedIn,Marketing Specialist,Remote,2025-09-07
+C00477,Referral,Customer Success Manager,Remote,2025-01-20
+C00478,Job Board,Software Engineer,Italy,2024-09-01
+C00479,Job Board,Marketing Specialist,Italy,2025-09-18
+C00480,Referral,Software Engineer,Remote,2024-07-08
+C00481,Referral,Customer Success Manager,Remote,2024-08-27
+C00482,LinkedIn,Customer Success Manager,Remote,2024-01-24
+C00483,Job Board,Customer Success Manager,Italy,2025-07-31
+C00484,LinkedIn,Sales Manager,Remote,2025-03-06
+C00485,LinkedIn,Data Analyst,Italy,2024-12-10
+C00486,Referral,Sales Manager,Remote,2025-03-13
+C00487,Job Board,Software Engineer,Remote,2024-02-17
+C00488,LinkedIn,Software Engineer,Netherlands,2025-02-11
+C00489,Job Board,HR Business Partner,Remote,2024-01-29
+C00490,Job Board,Software Engineer,Remote,2025-10-04
+C00491,Job Board,Customer Success Manager,Remote,2025-08-18
+C00492,Job Board,Marketing Specialist,Netherlands,2024-12-06
+C00493,Job Board,Sales Manager,EU,2024-09-07
+C00494,LinkedIn,Customer Success Manager,EU,2025-05-05
+C00495,Company Website,HR Business Partner,Netherlands,2025-03-03
+C00496,Job Board,Software Engineer,Remote,2025-04-17
+C00497,Referral,Sales Manager,Netherlands,2024-12-11
+C00498,Job Board,Customer Success Manager,Remote,2024-06-07
+C00499,Referral,Marketing Specialist,EU,2024-02-19
+C00500,Job Board,Customer Success Manager,Italy,2024-07-08
+C00501,Job Board,Marketing Specialist,Italy,2024-12-20
+C00502,Company Website,Marketing Specialist,Netherlands,2024-10-11
+C00503,Company Website,Software Engineer,Remote,2024-12-05
+C00504,Job Board,HR Business Partner,Netherlands,2024-07-05
+C00505,Job Board,Software Engineer,Remote,2024-10-22
+C00506,Company Website,Marketing Specialist,EU,2024-09-02
+C00507,LinkedIn,Data Analyst,Netherlands,2024-01-09
+C00508,Company Website,Software Engineer,Remote,2024-09-18
+C00509,Job Board,Marketing Specialist,Netherlands,2025-01-25
+C00510,LinkedIn,Sales Manager,EU,2025-02-08
+C00511,LinkedIn,Customer Success Manager,EU,2024-06-25
+C00512,Company Website,Software Engineer,Remote,2024-05-27
+C00513,LinkedIn,Marketing Specialist,Italy,2024-09-11
+C00514,LinkedIn,Marketing Specialist,EU,2025-06-22
+C00515,LinkedIn,Sales Manager,Italy,2024-04-06
+C00516,LinkedIn,Customer Success Manager,Remote,2024-10-10
+C00517,LinkedIn,Sales Manager,Remote,2025-03-26
+C00518,Job Board,HR Business Partner,Portugal,2025-04-18
+C00519,LinkedIn,HR Business Partner,Remote,2024-10-18
+C00520,Company Website,Customer Success Manager,EU,2025-10-19
+C00521,Company Website,Data Analyst,Netherlands,2024-01-11
+C00522,Referral,Sales Manager,Remote,2024-11-10
+C00523,LinkedIn,Customer Success Manager,Remote,2025-06-26
+C00524,Job Board,HR Business Partner,EU,2024-01-19
+C00525,LinkedIn,Software Engineer,Remote,2024-01-14
+C00526,Referral,Data Analyst,EU,2025-03-28
+C00527,Agency,Software Engineer,EU,2024-01-06
+C00528,Agency,Marketing Specialist,EU,2024-08-18
+C00529,Company Website,Data Analyst,Remote,2024-05-27
+C00530,LinkedIn,Software Engineer,EU,2025-09-27
+C00531,Job Board,Marketing Specialist,EU,2025-01-06
+C00532,Job Board,Data Analyst,Remote,2024-08-05
+C00533,Referral,Customer Success Manager,EU,2024-07-05
+C00534,Job Board,Sales Manager,Portugal,2025-01-12
+C00535,LinkedIn,Marketing Specialist,EU,2024-01-04
+C00536,LinkedIn,Customer Success Manager,Italy,2024-06-21
+C00537,Job Board,Marketing Specialist,Remote,2024-04-20
+C00538,LinkedIn,Sales Manager,Remote,2024-10-02
+C00539,LinkedIn,Software Engineer,Remote,2024-09-01
+C00540,Company Website,Customer Success Manager,Remote,2024-11-08
+C00541,Agency,Sales Manager,Netherlands,2024-01-05
+C00542,Job Board,Sales Manager,Remote,2024-09-05
+C00543,Company Website,Data Analyst,Portugal,2025-07-18
+C00544,Agency,Marketing Specialist,Remote,2024-05-16
+C00545,LinkedIn,Customer Success Manager,Remote,2024-10-26
+C00546,Referral,HR Business Partner,Italy,2025-10-26
+C00547,Referral,Customer Success Manager,Remote,2025-07-01
+C00548,LinkedIn,Software Engineer,Portugal,2024-03-21
+C00549,Company Website,Software Engineer,Netherlands,2025-01-24
+C00550,Referral,Software Engineer,Portugal,2024-01-12
+C00551,Referral,HR Business Partner,Remote,2024-09-27
+C00552,LinkedIn,Sales Manager,EU,2024-10-03
+C00553,LinkedIn,Marketing Specialist,Remote,2024-05-18
+C00554,Company Website,Customer Success Manager,Netherlands,2024-01-02
+C00555,LinkedIn,Software Engineer,Italy,2024-04-14
+C00556,LinkedIn,HR Business Partner,Remote,2025-09-30
+C00557,LinkedIn,Data Analyst,Remote,2024-04-06
+C00558,Job Board,Marketing Specialist,Remote,2024-01-14
+C00559,Job Board,Marketing Specialist,Remote,2025-09-02
+C00560,Job Board,Marketing Specialist,Netherlands,2024-10-07
+C00561,LinkedIn,Sales Manager,Portugal,2024-08-27
+C00562,LinkedIn,Data Analyst,Netherlands,2025-04-25
+C00563,Company Website,Sales Manager,Remote,2024-12-16
+C00564,Job Board,Data Analyst,EU,2025-09-04
+C00565,Job Board,Data Analyst,Remote,2024-11-09
+C00566,Job Board,Data Analyst,Italy,2025-04-22
+C00567,Company Website,Marketing Specialist,Remote,2025-08-11
+C00568,LinkedIn,Data Analyst,Remote,2024-11-06
+C00569,Referral,Data Analyst,EU,2024-01-27
+C00570,Job Board,Customer Success Manager,Remote,2025-10-14
+C00571,LinkedIn,HR Business Partner,Italy,2024-05-31
+C00572,Company Website,Customer Success Manager,EU,2024-01-27
+C00573,Job Board,HR Business Partner,Remote,2024-10-07
+C00574,Company Website,Marketing Specialist,Netherlands,2025-10-23
+C00575,Company Website,HR Business Partner,Italy,2024-09-01
+C00576,Job Board,Software Engineer,Portugal,2024-09-21
+C00577,Company Website,Customer Success Manager,EU,2025-07-10
+C00578,Job Board,Software Engineer,EU,2024-09-11
+C00579,Company Website,Software Engineer,EU,2024-10-09
+C00580,LinkedIn,Software Engineer,Portugal,2024-06-19
+C00581,Job Board,Data Analyst,EU,2024-12-09
+C00582,Job Board,Customer Success Manager,Remote,2024-04-05
+C00583,LinkedIn,Sales Manager,Remote,2025-07-18
+C00584,Referral,Data Analyst,EU,2025-03-20
+C00585,Company Website,Sales Manager,Remote,2024-11-19
+C00586,Job Board,Customer Success Manager,Remote,2024-12-11
+C00587,LinkedIn,Sales Manager,Remote,2025-04-22
+C00588,LinkedIn,Customer Success Manager,Italy,2024-12-16
+C00589,LinkedIn,Customer Success Manager,Remote,2025-09-08
+C00590,LinkedIn,Data Analyst,EU,2025-09-11
+C00591,Company Website,Customer Success Manager,Portugal,2025-09-28
+C00592,Referral,Sales Manager,Portugal,2024-01-21
+C00593,LinkedIn,Sales Manager,Remote,2025-05-12
+C00594,Job Board,Customer Success Manager,Italy,2024-07-27
+C00595,LinkedIn,Marketing Specialist,EU,2024-01-26
+C00596,LinkedIn,Sales Manager,Italy,2025-10-09
+C00597,Job Board,HR Business Partner,EU,2024-09-21
+C00598,Job Board,Sales Manager,Remote,2024-03-30
+C00599,Agency,Software Engineer,Netherlands,2024-12-31
+C00600,Job Board,HR Business Partner,Remote,2024-05-08
+C00601,Job Board,HR Business Partner,Portugal,2024-10-14
+C00602,Company Website,HR Business Partner,EU,2025-09-06
+C00603,Company Website,Data Analyst,Remote,2025-09-03
+C00604,Job Board,Customer Success Manager,EU,2025-06-26
+C00605,Agency,HR Business Partner,Remote,2025-05-23
+C00606,Company Website,Customer Success Manager,EU,2025-04-17
+C00607,Company Website,Data Analyst,EU,2024-06-06
+C00608,LinkedIn,Software Engineer,Remote,2024-12-21
+C00609,Job Board,Software Engineer,Remote,2024-03-11
+C00610,Referral,Data Analyst,EU,2024-09-07
+C00611,Job Board,Sales Manager,Remote,2024-12-04
+C00612,Job Board,Software Engineer,Portugal,2025-03-23
+C00613,Agency,Customer Success Manager,EU,2024-03-05
+C00614,Agency,Sales Manager,EU,2025-06-28
+C00615,LinkedIn,Customer Success Manager,Remote,2024-11-03
+C00616,Job Board,Software Engineer,EU,2024-01-09
+C00617,Job Board,Customer Success Manager,Netherlands,2024-12-19
+C00618,LinkedIn,Software Engineer,Remote,2025-01-01
+C00619,LinkedIn,Software Engineer,Remote,2025-04-09
+C00620,LinkedIn,HR Business Partner,Remote,2025-07-03
+C00621,Company Website,Marketing Specialist,Italy,2024-04-15
+C00622,Job Board,Software Engineer,EU,2024-12-08
+C00623,Agency,Software Engineer,Italy,2024-01-21
+C00624,Referral,HR Business Partner,EU,2024-11-13
+C00625,Agency,Customer Success Manager,Remote,2025-06-29
+C00626,Referral,Data Analyst,Remote,2025-08-02
+C00627,Company Website,Software Engineer,Remote,2024-01-17
+C00628,LinkedIn,Software Engineer,Portugal,2024-09-15
+C00629,Job Board,Marketing Specialist,EU,2025-01-04
+C00630,Company Website,Software Engineer,Remote,2024-09-22
+C00631,Company Website,Software Engineer,Portugal,2024-04-29
+C00632,Company Website,Marketing Specialist,Remote,2024-07-23
+C00633,LinkedIn,Software Engineer,Remote,2024-09-27
+C00634,Referral,Sales Manager,Remote,2024-12-13
+C00635,LinkedIn,Sales Manager,Netherlands,2025-09-08
+C00636,LinkedIn,Data Analyst,EU,2024-12-31
+C00637,Job Board,Data Analyst,EU,2024-09-07
+C00638,Job Board,Software Engineer,Remote,2025-01-04
+C00639,Company Website,Customer Success Manager,Remote,2025-09-21
+C00640,Company Website,Customer Success Manager,EU,2024-10-14
+C00641,Job Board,Data Analyst,Remote,2024-11-23
+C00642,Company Website,HR Business Partner,Netherlands,2024-05-25
+C00643,LinkedIn,Data Analyst,EU,2025-08-02
+C00644,LinkedIn,Marketing Specialist,Italy,2025-08-03
+C00645,Job Board,Data Analyst,EU,2024-04-27
+C00646,Company Website,HR Business Partner,Netherlands,2024-08-19
+C00647,LinkedIn,Sales Manager,Italy,2025-01-12
+C00648,Job Board,HR Business Partner,EU,2025-09-10
+C00649,Job Board,Software Engineer,Netherlands,2024-01-07
+C00650,LinkedIn,Customer Success Manager,Remote,2024-05-18
+C00651,Referral,Sales Manager,Portugal,2024-09-01
+C00652,Company Website,Marketing Specialist,Remote,2025-01-10
+C00653,Job Board,Software Engineer,EU,2024-06-15
+C00654,LinkedIn,Customer Success Manager,Portugal,2025-01-02
+C00655,Company Website,Customer Success Manager,EU,2024-10-19
+C00656,LinkedIn,Marketing Specialist,Italy,2025-07-09
+C00657,Company Website,Sales Manager,EU,2024-03-07
+C00658,LinkedIn,Sales Manager,Remote,2024-04-03
+C00659,Job Board,Sales Manager,Remote,2024-09-03
+C00660,Referral,Sales Manager,Remote,2025-09-01
+C00661,LinkedIn,HR Business Partner,EU,2025-03-12
+C00662,Company Website,Marketing Specialist,Italy,2024-12-22
+C00663,LinkedIn,Marketing Specialist,Remote,2025-06-13
+C00664,LinkedIn,Software Engineer,Portugal,2025-01-27
+C00665,LinkedIn,HR Business Partner,Remote,2024-06-06
+C00666,Job Board,Customer Success Manager,Italy,2025-01-07
+C00667,Company Website,Marketing Specialist,Italy,2025-04-16
+C00668,Agency,Sales Manager,Remote,2024-01-25
+C00669,LinkedIn,Software Engineer,EU,2025-02-10
+C00670,Referral,Customer Success Manager,Italy,2024-11-29
+C00671,LinkedIn,Sales Manager,Remote,2024-02-16
+C00672,Job Board,Software Engineer,Netherlands,2024-06-25
+C00673,Agency,Marketing Specialist,Portugal,2024-10-27
+C00674,Job Board,Marketing Specialist,EU,2024-08-17
+C00675,Job Board,Marketing Specialist,Portugal,2024-07-13
+C00676,Referral,Customer Success Manager,Netherlands,2025-03-10
+C00677,Company Website,Sales Manager,Remote,2024-09-27
+C00678,Job Board,Sales Manager,EU,2024-11-29
+C00679,LinkedIn,Software Engineer,EU,2025-06-18
+C00680,Referral,HR Business Partner,Remote,2024-03-03
+C00681,LinkedIn,Software Engineer,Remote,2024-01-25
+C00682,LinkedIn,HR Business Partner,Remote,2024-02-18
+C00683,LinkedIn,Software Engineer,EU,2025-09-13
+C00684,Referral,Customer Success Manager,Portugal,2024-05-04
+C00685,Job Board,Sales Manager,EU,2025-07-03
+C00686,LinkedIn,Sales Manager,Remote,2024-05-07
+C00687,Referral,Data Analyst,Remote,2025-10-10
+C00688,Agency,Sales Manager,Italy,2025-02-11
+C00689,Company Website,Customer Success Manager,Italy,2025-07-11
+C00690,Job Board,Software Engineer,Netherlands,2024-04-29
+C00691,LinkedIn,Sales Manager,Portugal,2024-05-22
+C00692,Company Website,Customer Success Manager,Netherlands,2025-08-13
+C00693,LinkedIn,Software Engineer,Portugal,2024-08-03
+C00694,LinkedIn,Data Analyst,Netherlands,2024-05-20
+C00695,Company Website,Sales Manager,Italy,2025-05-13
+C00696,Job Board,Data Analyst,Remote,2024-03-02
+C00697,Job Board,HR Business Partner,Remote,2025-08-03
+C00698,Job Board,Sales Manager,Italy,2025-08-09
+C00699,Job Board,Data Analyst,Remote,2025-07-27
+C00700,LinkedIn,Data Analyst,Remote,2024-07-16
+C00701,LinkedIn,HR Business Partner,Netherlands,2024-03-17
+C00702,LinkedIn,Data Analyst,Remote,2024-10-12
+C00703,LinkedIn,Customer Success Manager,Netherlands,2024-01-21
+C00704,Company Website,Data Analyst,EU,2025-10-04
+C00705,LinkedIn,HR Business Partner,EU,2025-02-27
+C00706,Job Board,Software Engineer,EU,2025-09-24
+C00707,Company Website,Software Engineer,Remote,2025-05-18
+C00708,Company Website,Data Analyst,EU,2024-09-10
+C00709,Referral,Customer Success Manager,Remote,2024-03-15
+C00710,Job Board,Marketing Specialist,Netherlands,2024-01-26
+C00711,Agency,Data Analyst,Remote,2025-01-23
+C00712,Job Board,Data Analyst,Remote,2025-02-01
+C00713,Company Website,Marketing Specialist,EU,2024-05-15
+C00714,Company Website,Software Engineer,EU,2025-10-24
+C00715,Company Website,Data Analyst,Italy,2024-03-29
+C00716,LinkedIn,Sales Manager,EU,2025-09-26
+C00717,Job Board,HR Business Partner,Remote,2025-03-23
+C00718,LinkedIn,Customer Success Manager,EU,2024-03-12
+C00719,Job Board,HR Business Partner,Remote,2024-02-09
+C00720,Agency,Marketing Specialist,Remote,2024-09-22
+C00721,Job Board,Software Engineer,Remote,2024-08-15
+C00722,Referral,Sales Manager,Remote,2024-10-13
+C00723,LinkedIn,Software Engineer,Remote,2024-12-20
+C00724,Agency,Software Engineer,Italy,2024-03-27
+C00725,LinkedIn,Sales Manager,Remote,2024-03-27
+C00726,LinkedIn,Data Analyst,Remote,2025-04-10
+C00727,LinkedIn,Software Engineer,Italy,2024-01-19
+C00728,LinkedIn,Customer Success Manager,Remote,2024-07-02
+C00729,Referral,Data Analyst,EU,2025-09-16
+C00730,Job Board,Software Engineer,Netherlands,2024-08-19
+C00731,LinkedIn,HR Business Partner,Italy,2024-08-13
+C00732,LinkedIn,HR Business Partner,Netherlands,2024-03-01
+C00733,LinkedIn,Customer Success Manager,Remote,2024-10-10
+C00734,Referral,Customer Success Manager,Remote,2024-11-29
+C00735,LinkedIn,Customer Success Manager,EU,2025-03-20
+C00736,Job Board,Data Analyst,EU,2025-01-12
+C00737,LinkedIn,Software Engineer,Portugal,2024-05-06
+C00738,LinkedIn,HR Business Partner,Remote,2024-10-16
+C00739,Referral,Sales Manager,EU,2024-02-16
+C00740,Referral,Data Analyst,Remote,2025-09-26
+C00741,LinkedIn,Sales Manager,Remote,2025-02-25
+C00742,LinkedIn,Software Engineer,Remote,2025-10-10
+C00743,Company Website,Software Engineer,Netherlands,2025-01-18
+C00744,LinkedIn,Data Analyst,Remote,2024-04-07
+C00745,Job Board,Customer Success Manager,Portugal,2025-10-25
+C00746,Job Board,Marketing Specialist,EU,2024-12-15
+C00747,LinkedIn,Sales Manager,EU,2025-04-25
+C00748,Referral,Marketing Specialist,EU,2024-05-11
+C00749,Company Website,Data Analyst,Portugal,2025-01-22
+C00750,Company Website,Marketing Specialist,Remote,2024-02-21
+C00751,LinkedIn,Marketing Specialist,Remote,2025-02-23
+C00752,LinkedIn,Data Analyst,EU,2024-05-15
+C00753,LinkedIn,Customer Success Manager,Remote,2025-09-01
+C00754,Job Board,Marketing Specialist,Remote,2024-02-06
+C00755,Job Board,Marketing Specialist,Remote,2025-03-13
+C00756,LinkedIn,Marketing Specialist,Remote,2024-04-03
+C00757,LinkedIn,Software Engineer,Remote,2025-04-05
+C00758,Agency,Data Analyst,Remote,2024-11-26
+C00759,LinkedIn,Customer Success Manager,Netherlands,2025-10-10
+C00760,Referral,HR Business Partner,Remote,2025-03-12
+C00761,Job Board,HR Business Partner,Netherlands,2025-01-23
+C00762,LinkedIn,Software Engineer,Netherlands,2024-01-17
+C00763,LinkedIn,HR Business Partner,Remote,2025-02-03
+C00764,LinkedIn,Data Analyst,EU,2024-10-22
+C00765,Company Website,Customer Success Manager,EU,2024-02-05
+C00766,LinkedIn,Data Analyst,EU,2025-10-18
+C00767,LinkedIn,Customer Success Manager,Remote,2024-05-20
+C00768,LinkedIn,Customer Success Manager,Remote,2024-06-05
+C00769,LinkedIn,Software Engineer,Remote,2025-09-10
+C00770,Job Board,Software Engineer,EU,2024-09-06
+C00771,LinkedIn,Sales Manager,Netherlands,2024-05-26
+C00772,Job Board,Marketing Specialist,EU,2025-10-23
+C00773,Job Board,Customer Success Manager,EU,2024-10-17
+C00774,Company Website,Software Engineer,Netherlands,2024-05-27
+C00775,LinkedIn,Data Analyst,EU,2024-03-30
+C00776,Company Website,Sales Manager,Remote,2024-11-08
+C00777,Job Board,Software Engineer,Portugal,2024-02-12
+C00778,LinkedIn,Marketing Specialist,Remote,2025-10-21
+C00779,Company Website,Customer Success Manager,Remote,2024-11-11
+C00780,Company Website,Sales Manager,Italy,2025-10-29
+C00781,LinkedIn,Customer Success Manager,Netherlands,2025-08-13
+C00782,Company Website,Software Engineer,Remote,2025-10-18
+C00783,Referral,Customer Success Manager,Italy,2024-12-29
+C00784,Job Board,Sales Manager,Remote,2024-09-23
+C00785,Agency,HR Business Partner,Remote,2025-04-27
+C00786,Referral,Marketing Specialist,Remote,2024-02-24
+C00787,Company Website,Sales Manager,EU,2025-07-16
+C00788,LinkedIn,Customer Success Manager,Portugal,2024-09-22
+C00789,Company Website,Marketing Specialist,Remote,2024-01-05
+C00790,Job Board,Data Analyst,Remote,2025-01-05
+C00791,LinkedIn,Data Analyst,Remote,2024-10-24
+C00792,Referral,HR Business Partner,Remote,2024-01-10
+C00793,LinkedIn,Sales Manager,Italy,2025-03-23
+C00794,LinkedIn,Data Analyst,EU,2024-03-04
+C00795,LinkedIn,Software Engineer,EU,2025-07-21
+C00796,LinkedIn,Customer Success Manager,Italy,2024-10-30
+C00797,LinkedIn,Sales Manager,Italy,2024-10-23
+C00798,LinkedIn,Sales Manager,Remote,2024-08-15
+C00799,Job Board,Customer Success Manager,Remote,2024-03-29
+C00800,Job Board,Software Engineer,Netherlands,2024-04-30
+C00801,Job Board,Customer Success Manager,EU,2024-10-07
+C00802,LinkedIn,Software Engineer,Netherlands,2025-04-24
+C00803,Company Website,Marketing Specialist,Netherlands,2024-06-28
+C00804,Job Board,HR Business Partner,EU,2025-09-27
+C00805,LinkedIn,Data Analyst,Netherlands,2025-01-15
+C00806,LinkedIn,Marketing Specialist,Italy,2025-07-24
+C00807,Job Board,Software Engineer,Remote,2024-10-03
+C00808,LinkedIn,Data Analyst,Remote,2024-06-10
+C00809,Job Board,Data Analyst,Remote,2024-07-20
+C00810,Agency,Customer Success Manager,Remote,2024-12-26
+C00811,LinkedIn,Data Analyst,Remote,2025-01-14
+C00812,LinkedIn,Sales Manager,EU,2024-05-03
+C00813,Agency,Data Analyst,Portugal,2025-09-09
+C00814,Job Board,Software Engineer,EU,2024-11-27
+C00815,LinkedIn,Software Engineer,Remote,2025-09-07
+C00816,Company Website,Software Engineer,EU,2024-04-12
+C00817,Company Website,Sales Manager,Remote,2024-09-30
+C00818,Job Board,Data Analyst,Remote,2024-04-18
+C00819,Job Board,HR Business Partner,Remote,2024-06-11
+C00820,LinkedIn,Software Engineer,Remote,2025-02-14
+C00821,LinkedIn,HR Business Partner,Remote,2024-07-10
+C00822,Job Board,Data Analyst,Portugal,2024-06-25
+C00823,LinkedIn,Data Analyst,EU,2025-10-29
+C00824,Job Board,Sales Manager,EU,2024-04-25
+C00825,Company Website,Software Engineer,Remote,2024-05-06
+C00826,LinkedIn,Software Engineer,Portugal,2025-09-14
+C00827,Job Board,Customer Success Manager,EU,2025-01-03
+C00828,LinkedIn,Software Engineer,Remote,2024-01-29
+C00829,Company Website,Software Engineer,EU,2024-10-11
+C00830,LinkedIn,HR Business Partner,Italy,2025-09-10
+C00831,Job Board,Data Analyst,Italy,2025-10-02
+C00832,Job Board,Software Engineer,Remote,2025-01-02
+C00833,Referral,Software Engineer,Italy,2024-09-19
+C00834,Job Board,Software Engineer,Remote,2024-06-16
+C00835,Job Board,Data Analyst,Remote,2025-06-28
+C00836,Job Board,Customer Success Manager,Remote,2025-01-20
+C00837,Company Website,Marketing Specialist,Netherlands,2025-10-07
+C00838,Agency,Data Analyst,Remote,2024-09-19
+C00839,Referral,HR Business Partner,Remote,2024-08-05
+C00840,Job Board,Customer Success Manager,Remote,2025-04-28
+C00841,LinkedIn,Sales Manager,Portugal,2025-08-22
+C00842,Company Website,Customer Success Manager,EU,2024-09-15
+C00843,Job Board,HR Business Partner,Netherlands,2025-10-18
+C00844,Referral,Marketing Specialist,Remote,2024-05-09
+C00845,LinkedIn,Marketing Specialist,Remote,2024-10-05
+C00846,Company Website,Data Analyst,Italy,2024-07-29
+C00847,Referral,Software Engineer,Remote,2024-10-11
+C00848,Job Board,Software Engineer,Portugal,2025-08-27
+C00849,LinkedIn,Data Analyst,Portugal,2024-10-10
+C00850,Agency,Sales Manager,Italy,2025-06-17
+C00851,LinkedIn,Marketing Specialist,Netherlands,2024-06-19
+C00852,LinkedIn,Data Analyst,Italy,2025-09-26
+C00853,Company Website,Software Engineer,Remote,2024-10-18
+C00854,Company Website,Customer Success Manager,Italy,2025-09-20
+C00855,LinkedIn,Sales Manager,Remote,2025-04-12
+C00856,Referral,Software Engineer,Portugal,2025-03-20
+C00857,Job Board,Marketing Specialist,Remote,2025-02-07
+C00858,Company Website,Software Engineer,Remote,2024-11-17
+C00859,Referral,Data Analyst,EU,2025-03-09
+C00860,Job Board,Data Analyst,Remote,2025-09-24
+C00861,Job Board,Marketing Specialist,Remote,2025-09-03
+C00862,Job Board,Sales Manager,EU,2025-09-11
+C00863,Company Website,Software Engineer,Remote,2024-04-30
+C00864,Job Board,Data Analyst,Italy,2025-01-27
+C00865,LinkedIn,Software Engineer,Remote,2025-06-01
+C00866,Company Website,Marketing Specialist,Remote,2025-03-05
+C00867,Company Website,Software Engineer,Remote,2024-05-21
+C00868,Company Website,Marketing Specialist,EU,2024-12-31
+C00869,LinkedIn,Sales Manager,Netherlands,2025-06-28
+C00870,LinkedIn,Software Engineer,Remote,2024-03-24
+C00871,Job Board,Customer Success Manager,Netherlands,2024-02-11
+C00872,LinkedIn,Software Engineer,EU,2024-09-20
+C00873,Agency,Sales Manager,EU,2025-03-15
+C00874,Referral,Customer Success Manager,EU,2024-07-28
+C00875,Job Board,Software Engineer,EU,2025-07-04
+C00876,Company Website,Software Engineer,Portugal,2025-07-21
+C00877,Referral,Marketing Specialist,Italy,2024-12-22
+C00878,LinkedIn,Sales Manager,Italy,2024-10-24
+C00879,Job Board,Sales Manager,Remote,2024-01-28
+C00880,Job Board,Data Analyst,Remote,2025-07-04
+C00881,Referral,Software Engineer,EU,2025-10-27
+C00882,Job Board,Sales Manager,Remote,2024-10-23
+C00883,Agency,Customer Success Manager,Remote,2024-12-12
+C00884,Referral,Sales Manager,Remote,2025-09-05
+C00885,LinkedIn,HR Business Partner,Remote,2025-04-10
+C00886,Referral,Sales Manager,EU,2024-03-31
+C00887,Referral,Software Engineer,EU,2025-03-26
+C00888,LinkedIn,Software Engineer,Italy,2025-09-11
+C00889,LinkedIn,Customer Success Manager,Remote,2025-05-17
+C00890,Job Board,Software Engineer,Italy,2024-11-17
+C00891,LinkedIn,Software Engineer,Remote,2024-12-16
+C00892,Agency,Customer Success Manager,EU,2024-06-23
+C00893,LinkedIn,HR Business Partner,EU,2025-03-18
+C00894,LinkedIn,Sales Manager,Italy,2024-06-10
+C00895,Company Website,Marketing Specialist,Italy,2024-08-17
+C00896,Company Website,Software Engineer,Netherlands,2024-06-26
+C00897,LinkedIn,Data Analyst,EU,2024-08-12
+C00898,LinkedIn,Software Engineer,Italy,2024-09-02
+C00899,LinkedIn,Data Analyst,Italy,2024-02-25
+C00900,Job Board,Sales Manager,Remote,2025-04-25
+C00901,Referral,Customer Success Manager,Netherlands,2024-10-22
+C00902,LinkedIn,Data Analyst,Remote,2025-09-28
+C00903,LinkedIn,Customer Success Manager,Remote,2025-09-13
+C00904,Job Board,Marketing Specialist,Netherlands,2025-03-24
+C00905,Agency,HR Business Partner,EU,2024-04-30
+C00906,Job Board,Customer Success Manager,Remote,2025-01-01
+C00907,Job Board,Customer Success Manager,Remote,2024-01-04
+C00908,LinkedIn,Marketing Specialist,Remote,2024-10-27
+C00909,LinkedIn,Software Engineer,EU,2025-03-14
+C00910,LinkedIn,Data Analyst,Remote,2025-07-08
+C00911,Company Website,Software Engineer,Netherlands,2024-09-24
+C00912,Company Website,Software Engineer,Netherlands,2025-07-23
+C00913,Company Website,Data Analyst,Italy,2024-05-03
+C00914,Agency,HR Business Partner,EU,2024-07-15
+C00915,Agency,Data Analyst,Remote,2025-09-15
+C00916,Agency,Marketing Specialist,Remote,2025-09-30
+C00917,LinkedIn,Sales Manager,EU,2024-03-20
+C00918,LinkedIn,Data Analyst,Remote,2024-09-21
+C00919,LinkedIn,Data Analyst,Remote,2024-10-07
+C00920,Job Board,Sales Manager,Remote,2025-06-20
+C00921,LinkedIn,Sales Manager,Remote,2024-11-21
+C00922,Company Website,Data Analyst,Italy,2025-10-09
+C00923,Job Board,Sales Manager,EU,2025-05-11
+C00924,Job Board,Sales Manager,Portugal,2025-04-16
+C00925,LinkedIn,Software Engineer,EU,2025-05-19
+C00926,LinkedIn,Software Engineer,Portugal,2024-01-03
+C00927,LinkedIn,Sales Manager,Italy,2024-10-27
+C00928,Company Website,Sales Manager,Portugal,2024-10-20
+C00929,Job Board,Data Analyst,Italy,2024-05-19
+C00930,Job Board,Data Analyst,Remote,2024-03-20
+C00931,LinkedIn,Sales Manager,Netherlands,2024-03-31
+C00932,Referral,Customer Success Manager,Remote,2024-01-22
+C00933,Referral,Marketing Specialist,Remote,2024-09-24
+C00934,Company Website,Marketing Specialist,Remote,2024-07-07
+C00935,Company Website,Software Engineer,Remote,2025-05-08
+C00936,LinkedIn,Software Engineer,Remote,2025-04-10
+C00937,Agency,Sales Manager,Italy,2025-09-27
+C00938,LinkedIn,Customer Success Manager,Portugal,2025-01-22
+C00939,Company Website,Customer Success Manager,Remote,2025-08-14
+C00940,LinkedIn,Customer Success Manager,Italy,2024-05-01
+C00941,LinkedIn,Marketing Specialist,Remote,2025-05-30
+C00942,Company Website,Software Engineer,Portugal,2024-09-20
+C00943,LinkedIn,Customer Success Manager,Remote,2024-09-27
+C00944,Referral,Customer Success Manager,Remote,2025-03-09
+C00945,Referral,Sales Manager,Italy,2025-02-07
+C00946,LinkedIn,Marketing Specialist,EU,2024-10-08
+C00947,Job Board,Data Analyst,Portugal,2025-10-31
+C00948,Company Website,Marketing Specialist,EU,2024-04-27
+C00949,Company Website,Customer Success Manager,EU,2024-03-05
+C00950,LinkedIn,Data Analyst,Italy,2024-01-20
+C00951,Job Board,HR Business Partner,Remote,2025-06-29
+C00952,LinkedIn,Data Analyst,Remote,2025-09-22
+C00953,LinkedIn,Customer Success Manager,Remote,2024-10-20
+C00954,LinkedIn,Customer Success Manager,Remote,2024-10-22
+C00955,Agency,HR Business Partner,Italy,2024-09-27
+C00956,Company Website,Customer Success Manager,Remote,2024-01-13
+C00957,Company Website,Data Analyst,EU,2024-02-09
+C00958,Job Board,Sales Manager,Italy,2024-04-14
+C00959,Job Board,Software Engineer,EU,2025-09-16
+C00960,Job Board,Data Analyst,EU,2024-10-28
+C00961,Job Board,Software Engineer,Remote,2024-04-22
+C00962,Referral,Sales Manager,Remote,2024-09-04
+C00963,LinkedIn,Software Engineer,EU,2024-09-21
+C00964,LinkedIn,Software Engineer,EU,2024-07-02
+C00965,Agency,Marketing Specialist,Remote,2024-07-15
+C00966,Job Board,Sales Manager,Remote,2025-05-03
+C00967,Agency,Marketing Specialist,EU,2024-03-12
+C00968,LinkedIn,Software Engineer,EU,2024-07-26
+C00969,Job Board,Sales Manager,Remote,2024-01-23
+C00970,LinkedIn,Software Engineer,Italy,2024-12-27
+C00971,LinkedIn,Software Engineer,Portugal,2025-08-12
+C00972,LinkedIn,Sales Manager,Remote,2025-09-10
+C00973,LinkedIn,Software Engineer,Portugal,2024-07-18
+C00974,Company Website,Data Analyst,Remote,2025-09-04
+C00975,LinkedIn,Software Engineer,Italy,2025-09-19
+C00976,Job Board,HR Business Partner,Italy,2024-01-10
+C00977,Referral,Software Engineer,Remote,2024-09-04
+C00978,Referral,Customer Success Manager,Netherlands,2024-10-05
+C00979,Job Board,Sales Manager,Italy,2025-03-26
+C00980,LinkedIn,Marketing Specialist,Netherlands,2024-04-29
+C00981,Agency,Customer Success Manager,Remote,2024-11-15
+C00982,Company Website,Marketing Specialist,Portugal,2024-03-08
+C00983,Job Board,Customer Success Manager,Netherlands,2024-10-04
+C00984,Referral,Data Analyst,Italy,2025-05-27
+C00985,LinkedIn,Software Engineer,Remote,2024-01-25
+C00986,Company Website,Data Analyst,EU,2025-07-14
+C00987,LinkedIn,Customer Success Manager,Italy,2024-01-21
+C00988,LinkedIn,HR Business Partner,Netherlands,2024-05-04
+C00989,LinkedIn,Sales Manager,Italy,2024-04-11
+C00990,Company Website,Marketing Specialist,Remote,2024-05-26
+C00991,Job Board,Data Analyst,Remote,2024-05-14
+C00992,Company Website,HR Business Partner,EU,2024-08-04
+C00993,Company Website,Customer Success Manager,Netherlands,2024-09-03
+C00994,LinkedIn,Data Analyst,Remote,2025-01-31
+C00995,Company Website,HR Business Partner,EU,2024-04-09
+C00996,Referral,Customer Success Manager,Netherlands,2025-02-20
+C00997,Job Board,Data Analyst,Remote,2024-08-11
+C00998,LinkedIn,Software Engineer,Remote,2025-04-05
+C00999,Agency,Sales Manager,EU,2024-12-09
+C01000,LinkedIn,HR Business Partner,EU,2025-08-29
+C01001,LinkedIn,Data Analyst,Remote,2024-10-21
+C01002,Referral,Marketing Specialist,Portugal,2024-01-17
+C01003,LinkedIn,Marketing Specialist,Italy,2025-09-18
+C01004,LinkedIn,Sales Manager,Netherlands,2025-03-17
+C01005,Job Board,Sales Manager,Portugal,2024-01-15
+C01006,Referral,HR Business Partner,Portugal,2024-01-17
+C01007,Company Website,Customer Success Manager,Italy,2024-09-25
+C01008,LinkedIn,Software Engineer,Remote,2024-07-23
+C01009,Job Board,Data Analyst,Italy,2024-01-15
+C01010,Referral,Data Analyst,Remote,2025-10-18
+C01011,Job Board,Marketing Specialist,EU,2025-03-28
+C01012,Job Board,Software Engineer,Remote,2024-03-04
+C01013,Job Board,Marketing Specialist,Italy,2025-10-06
+C01014,Agency,Software Engineer,Remote,2025-04-22
+C01015,LinkedIn,Marketing Specialist,Remote,2024-02-03
+C01016,LinkedIn,Data Analyst,Remote,2025-05-02
+C01017,Job Board,Data Analyst,EU,2025-01-30
+C01018,Company Website,Marketing Specialist,Portugal,2025-01-16
+C01019,LinkedIn,Marketing Specialist,Remote,2024-11-23
+C01020,Referral,Sales Manager,Portugal,2025-09-11
+C01021,Company Website,Software Engineer,Portugal,2025-09-25
+C01022,Job Board,Software Engineer,Remote,2024-08-03
+C01023,Agency,Software Engineer,EU,2024-10-12
+C01024,Job Board,Sales Manager,Italy,2024-10-22
+C01025,Job Board,Marketing Specialist,Remote,2025-08-19
+C01026,LinkedIn,Sales Manager,Italy,2025-05-31
+C01027,Agency,Customer Success Manager,Remote,2024-09-17
+C01028,Referral,Data Analyst,Portugal,2024-09-19
+C01029,Job Board,Data Analyst,Netherlands,2025-01-21
+C01030,Referral,HR Business Partner,Portugal,2025-05-29
+C01031,Job Board,Sales Manager,EU,2024-08-01
+C01032,Job Board,HR Business Partner,Italy,2024-06-28
+C01033,Job Board,Data Analyst,Netherlands,2025-08-04
+C01034,Company Website,Marketing Specialist,Remote,2025-01-29
+C01035,Referral,Customer Success Manager,Remote,2024-08-25
+C01036,Job Board,Marketing Specialist,EU,2025-08-02
+C01037,LinkedIn,Data Analyst,Remote,2024-09-20
+C01038,Referral,Sales Manager,Remote,2024-01-16
+C01039,Referral,Software Engineer,Remote,2024-12-15
+C01040,LinkedIn,Software Engineer,EU,2024-11-19
+C01041,LinkedIn,Sales Manager,Remote,2024-09-17
+C01042,Job Board,Data Analyst,Remote,2025-09-29
+C01043,Job Board,Software Engineer,Remote,2025-01-02
+C01044,Job Board,Sales Manager,Remote,2025-06-18
+C01045,LinkedIn,Software Engineer,Portugal,2025-02-03
+C01046,LinkedIn,Sales Manager,Remote,2025-08-17
+C01047,LinkedIn,Sales Manager,EU,2024-09-28
+C01048,Company Website,HR Business Partner,EU,2024-01-14
+C01049,Company Website,Software Engineer,Remote,2025-10-10
+C01050,LinkedIn,Software Engineer,Portugal,2025-10-29
+C01051,Job Board,Software Engineer,EU,2025-02-13
+C01052,LinkedIn,Customer Success Manager,Italy,2024-09-20
+C01053,LinkedIn,Software Engineer,Remote,2024-01-28
+C01054,LinkedIn,HR Business Partner,Remote,2024-12-13
+C01055,LinkedIn,Marketing Specialist,Netherlands,2025-06-23
+C01056,Job Board,Software Engineer,Portugal,2024-11-17
+C01057,Company Website,Marketing Specialist,Netherlands,2025-01-10
+C01058,LinkedIn,Customer Success Manager,Netherlands,2025-06-18
+C01059,Job Board,Data Analyst,Remote,2024-12-11
+C01060,Job Board,Software Engineer,Portugal,2024-09-24
+C01061,Agency,Customer Success Manager,Italy,2025-03-03
+C01062,Job Board,Marketing Specialist,Portugal,2025-05-04
+C01063,LinkedIn,Software Engineer,Remote,2024-09-20
+C01064,Job Board,Data Analyst,Remote,2025-02-23
+C01065,LinkedIn,HR Business Partner,EU,2024-02-03
+C01066,Agency,Data Analyst,Portugal,2025-01-21
+C01067,Referral,Customer Success Manager,EU,2024-04-04
+C01068,Job Board,Software Engineer,Remote,2024-12-07
+C01069,LinkedIn,Customer Success Manager,Remote,2024-04-05
+C01070,Referral,Marketing Specialist,Netherlands,2024-12-07
+C01071,Company Website,HR Business Partner,Italy,2024-08-18
+C01072,Job Board,HR Business Partner,Italy,2024-01-14
+C01073,Referral,Customer Success Manager,Italy,2024-03-24
+C01074,Agency,Customer Success Manager,Italy,2024-12-03
+C01075,Company Website,Marketing Specialist,Italy,2024-02-22
+C01076,LinkedIn,Data Analyst,Italy,2025-07-27
+C01077,Job Board,Software Engineer,Portugal,2025-05-23
+C01078,Job Board,Sales Manager,Netherlands,2025-04-20
+C01079,Job Board,Marketing Specialist,Netherlands,2024-01-23
+C01080,LinkedIn,HR Business Partner,EU,2025-06-17
+C01081,LinkedIn,Software Engineer,Italy,2025-03-01
+C01082,Company Website,Sales Manager,EU,2024-09-18
+C01083,Company Website,Sales Manager,Portugal,2024-01-01
+C01084,Company Website,Customer Success Manager,EU,2024-12-20
+C01085,Agency,Sales Manager,EU,2025-10-10
+C01086,Job Board,Data Analyst,EU,2024-10-02
+C01087,Company Website,Marketing Specialist,EU,2024-02-05
+C01088,Company Website,Customer Success Manager,EU,2024-09-13
+C01089,Job Board,Sales Manager,Remote,2024-12-08
+C01090,Referral,Sales Manager,Italy,2024-11-13
+C01091,LinkedIn,Marketing Specialist,EU,2024-10-12
+C01092,Job Board,Customer Success Manager,Remote,2024-06-19
+C01093,LinkedIn,HR Business Partner,Portugal,2024-02-10
+C01094,LinkedIn,Sales Manager,EU,2024-01-21
+C01095,Job Board,Sales Manager,Remote,2024-03-07
+C01096,Referral,Data Analyst,Portugal,2025-04-07
+C01097,LinkedIn,Customer Success Manager,EU,2025-06-10
+C01098,Company Website,Data Analyst,EU,2024-10-18
+C01099,Company Website,Data Analyst,Italy,2024-02-21
+C01100,LinkedIn,Customer Success Manager,Portugal,2024-01-10
+C01101,LinkedIn,Marketing Specialist,Italy,2025-10-22
+C01102,LinkedIn,Customer Success Manager,EU,2024-06-16
+C01103,Company Website,Software Engineer,Remote,2024-11-25
+C01104,Company Website,Software Engineer,EU,2024-12-26
+C01105,LinkedIn,Software Engineer,EU,2025-10-21
+C01106,Company Website,Sales Manager,EU,2024-10-20
+C01107,LinkedIn,Software Engineer,Italy,2024-11-12
+C01108,Referral,Software Engineer,Portugal,2024-11-13
+C01109,Agency,HR Business Partner,EU,2024-09-23
+C01110,LinkedIn,Marketing Specialist,Remote,2025-01-24
+C01111,LinkedIn,Marketing Specialist,Netherlands,2024-02-05
+C01112,Referral,Data Analyst,EU,2024-01-05
+C01113,Job Board,Software Engineer,Netherlands,2024-10-02
+C01114,Agency,Sales Manager,Netherlands,2025-08-31
+C01115,Agency,Software Engineer,Netherlands,2024-01-25
+C01116,LinkedIn,Sales Manager,EU,2024-02-17
+C01117,LinkedIn,Data Analyst,EU,2024-01-14
+C01118,Company Website,Customer Success Manager,Remote,2024-10-29
+C01119,LinkedIn,Software Engineer,Italy,2024-06-03
+C01120,Company Website,Marketing Specialist,EU,2024-05-18
+C01121,Job Board,Data Analyst,Italy,2025-09-22
+C01122,LinkedIn,Data Analyst,Portugal,2024-12-16
+C01123,Company Website,Software Engineer,Remote,2025-03-03
+C01124,LinkedIn,Data Analyst,Italy,2024-01-03
+C01125,Referral,Sales Manager,Italy,2024-01-18
+C01126,Job Board,Marketing Specialist,Italy,2025-09-19
+C01127,Job Board,Sales Manager,Remote,2024-07-31
+C01128,Job Board,Sales Manager,Remote,2024-09-22
+C01129,Job Board,HR Business Partner,Portugal,2024-04-19
+C01130,Agency,Software Engineer,Italy,2025-03-03
+C01131,Agency,HR Business Partner,Remote,2024-01-22
+C01132,Job Board,Software Engineer,Remote,2024-06-15
+C01133,LinkedIn,Customer Success Manager,Italy,2025-04-22
+C01134,Job Board,Data Analyst,Remote,2024-01-14
+C01135,Agency,Software Engineer,EU,2025-10-24
+C01136,LinkedIn,Customer Success Manager,Portugal,2024-09-27
+C01137,Referral,Marketing Specialist,Remote,2024-09-24
+C01138,Referral,Software Engineer,EU,2024-12-25
+C01139,LinkedIn,HR Business Partner,Remote,2025-03-04
+C01140,Job Board,Data Analyst,Remote,2024-11-03
+C01141,Referral,Data Analyst,Portugal,2025-08-15
+C01142,Company Website,Data Analyst,Italy,2024-10-20
+C01143,Company Website,Customer Success Manager,Portugal,2024-05-14
+C01144,Company Website,Sales Manager,Remote,2025-04-18
+C01145,Referral,Customer Success Manager,Remote,2024-07-20
+C01146,LinkedIn,Data Analyst,Italy,2024-09-14
+C01147,Job Board,Marketing Specialist,Italy,2024-06-18
+C01148,Company Website,Customer Success Manager,Netherlands,2024-07-16
+C01149,Job Board,Data Analyst,Remote,2025-04-23
+C01150,Company Website,Data Analyst,Portugal,2025-10-15
+C01151,LinkedIn,Data Analyst,Portugal,2024-03-27
+C01152,Company Website,Customer Success Manager,Italy,2025-01-07
+C01153,LinkedIn,Sales Manager,Remote,2024-08-19
+C01154,LinkedIn,Software Engineer,Italy,2025-02-13
+C01155,Job Board,Software Engineer,Remote,2025-01-08
+C01156,LinkedIn,Customer Success Manager,Portugal,2025-10-22
+C01157,LinkedIn,Software Engineer,Italy,2025-09-17
+C01158,LinkedIn,Software Engineer,Netherlands,2025-03-14
+C01159,Referral,Marketing Specialist,EU,2025-03-31
+C01160,Company Website,Data Analyst,Italy,2025-08-25
+C01161,LinkedIn,Customer Success Manager,EU,2024-05-02
+C01162,Job Board,Data Analyst,Italy,2024-09-17
+C01163,Company Website,Software Engineer,Netherlands,2024-10-22
+C01164,LinkedIn,Marketing Specialist,Remote,2024-03-26
+C01165,LinkedIn,HR Business Partner,Netherlands,2025-08-13
+C01166,Company Website,Customer Success Manager,Portugal,2025-04-13
+C01167,Company Website,Sales Manager,Portugal,2024-08-20
+C01168,Job Board,Software Engineer,Italy,2024-11-20
+C01169,Company Website,Software Engineer,Portugal,2024-11-24
+C01170,LinkedIn,Software Engineer,Remote,2025-09-07
+C01171,Referral,Software Engineer,EU,2025-09-07
+C01172,Job Board,Sales Manager,Remote,2025-06-24
+C01173,LinkedIn,Sales Manager,Remote,2025-09-09
+C01174,Company Website,Sales Manager,Italy,2024-03-10
+C01175,Job Board,Software Engineer,Remote,2025-09-04
+C01176,Company Website,Data Analyst,Italy,2024-03-30
+C01177,Referral,Marketing Specialist,Portugal,2024-04-21
+C01178,Referral,HR Business Partner,Remote,2024-02-16
+C01179,LinkedIn,Data Analyst,EU,2025-09-12
+C01180,LinkedIn,Customer Success Manager,Remote,2024-11-26
+C01181,Company Website,Customer Success Manager,EU,2024-10-06
+C01182,LinkedIn,Sales Manager,Portugal,2024-02-24
+C01183,LinkedIn,Data Analyst,Italy,2024-10-03
+C01184,LinkedIn,Data Analyst,EU,2024-01-10
+C01185,LinkedIn,Data Analyst,Netherlands,2025-10-28
+C01186,Company Website,Customer Success Manager,Portugal,2025-01-05
+C01187,Referral,Marketing Specialist,Italy,2024-09-10
+C01188,Agency,Data Analyst,Italy,2025-10-09
+C01189,LinkedIn,Customer Success Manager,EU,2025-08-27
+C01190,Job Board,Data Analyst,Remote,2024-07-06
+C01191,Referral,HR Business Partner,Portugal,2025-10-26
+C01192,Referral,Customer Success Manager,Remote,2024-12-13
+C01193,Company Website,Software Engineer,Portugal,2025-09-15
+C01194,Agency,Data Analyst,Remote,2024-03-19
+C01195,Company Website,HR Business Partner,Remote,2024-03-06
+C01196,LinkedIn,Marketing Specialist,Netherlands,2025-08-15
+C01197,LinkedIn,Sales Manager,Portugal,2025-03-26
+C01198,Job Board,Sales Manager,Portugal,2024-04-27
+C01199,LinkedIn,Data Analyst,Netherlands,2025-08-22
+C01200,Job Board,Software Engineer,Italy,2024-09-12
